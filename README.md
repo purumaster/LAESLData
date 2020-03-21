@@ -4,6 +4,6 @@ My project plan.
   
   1. How many countires and Languages are represented in our school.
   2. Gender and ages.
-  3. How many students are graduated from High schgool in their countries or United states.
+  3. How many students are graduated from High schgool in their countries.
   4. How many students are interested in GED.
   
