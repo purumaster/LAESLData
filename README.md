@@ -7,3 +7,6 @@ My project plan.
   3. How many students are graduated from High schgool in their countries.
   4. How many students are interested in GED.
   
+Technical Summary
+　. Python
+  . Plotly
