@@ -14,17 +14,16 @@
   
   
 ## Technical Summary
- . Python3
- . Pandas
- . Sqlite3
- . Matplotlib
- . Plotly
+ * Python3
+ * Pandas
+ * Sqlite3
+ * Matplotlib
+ * Plotly
  
  
 ## How to make project work
- 
- . Open Repository on browser https://github.com/purumaster/LAESLData.git
- . Open Project in Descktop by going to "Clone or download" > "Open to Anaconda Navigator"
- . Go to Environments > click on the green arrow > open Terminal > type on "git clone https://github.com/purumaster/LAESLData.git"
- . Go to Anaconda Navigator again and open Environments > click on the green arrow > choose "Open with Jupyter Notebook" > 
- . Go to "LAESLData folder" > "LAESLData.ipynb"
+ * Open Repository on browser https://github.com/purumaster/LAESLData.git
+ * Open Project in Descktop by going to "Clone or download" > "Open to Anaconda Navigator"
+ * Go to Environments > click on the green arrow > open Terminal > type on "git clone https://github.com/purumaster/LAESLData.git"
+ * Go to Anaconda Navigator again and open Environments > click on the green arrow > choose "Open with Jupyter Notebook" > 
+ * Go to "LAESLData folder" > "LAESLData.ipynb"
