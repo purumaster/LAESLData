@@ -31,7 +31,7 @@
 
 ## Features
  * Data Frame
- ** Countries
+ ### Countries
  ** People from each country
  ** How many languages
  ** Genders
