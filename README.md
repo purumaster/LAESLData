@@ -27,3 +27,25 @@
  * Go to Environments > click on the green arrow > open Terminal > type on "git clone https://github.com/purumaster/LAESLData.git"
  * Go to Anaconda Navigator again and open Environments > click on the green arrow > choose "Open with Jupyter Notebook" > 
  * Go to "LAESLData folder" > "LAESLData.ipynb"
+ 
+
+## Features
+ * Data Frame
+ ** Countries
+ ** People from each country
+ ** How many languages
+ ** Genders
+ ** Generations
+ ** Average of age
+ ** HighSchool_Diploma
+ ** Interested in GED
+ 
+ * Visulization for dataframes
+ ** Number of people from each country
+ ** Number of speakers
+ ** Genders
+ ** Ages
+ ** GED
+ 
+
+
