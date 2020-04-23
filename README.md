@@ -31,21 +31,21 @@
 
 ## Features
  * Data Frame
- ### Countries
- ** People from each country
- ** How many languages
- ** Genders
- ** Generations
- ** Average of age
- ** HighSchool_Diploma
- ** Interested in GED
+  - Countries
+  - People from each country
+  - How many languages
+  - Genders
+  - Generations
+  - Average of age
+  - HighSchool_Diploma
+  - Interested in GED
  
  * Visulization for dataframes
- ** Number of people from each country
- ** Number of speakers
- ** Genders
- ** Ages
- ** GED
+  - Number of people from each country
+  - Number of speakers
+  - Genders
+  - Ages
+  - GED
  
 
 
